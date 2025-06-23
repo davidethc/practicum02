@@ -1,0 +1,391 @@
+idAsignatura,codigo,nombre
+5,Utpldg001,Prototipado
+6,Utplrl001,Ingenieria web
+7,Utplrc001,Procesos de ingenieria de software
+8,Utplfc001,Computacion y sociedad
+9,Utpldi001,Estructuras de datos
+10,Utplgr001,Computacion aplicada a la ingenieria
+11,Utpljc001,Sistemas basados en conocimientos
+12,Utplfs001,Innovacion en sistemas intensivos en software
+13,Utplrl002,Desarrollo web
+14,Utplcc001,Fisica basica
+15,Utplcc002,Fluid mechanics
+16,Utplcc003,Algebra lineal
+17,Utplkv001,Relaciones publicas
+18,Utplav001,Sociologia (mad)
+19,Utplav002,Sociologia (presencial)
+20,Utplav003,Metodos y tecnicas de investigacion (mad)
+21,Utplav004,Tecnicas cualitativas (posgrado)
+22,Utplja001,Semiotica  100-red
+23,Utplja002,Radio  100-ects
+24,Utplja003,Radio  101-red
+25,Utplja004,Radio  100-red
+26,Utplja005,Radio-cce  ects-100
+27,Utplja006,Elab. plan rrpp  100-ects
+28,Utplja007,Gp 4.1  tt1
+29,Utplja008,Semiotica presencial  a
+30,Utplmp001,Generos periodn¬sticos
+31,Utplas001,Emprendimiento
+32,Utplve001,Practicum 1 de pedagogia de los idiomas nacionales y extranjeros
+33,Utpljy001,Comunicacion organizacional
+34,Utplko001,Practicum ii
+35,Utplko002,Periodismo de investigacion
+36,Utplva001,Asesoria y media training
+37,Utplav002,Marca personal e imagen
+38,Utplhy001,Radio
+39,Utplhy002,Radio y television para rrpp
+40,Utplhy003,Epistemilogia de la cultura digital
+41,Utplml001,G.p.4.2 presencia
+42,Utplml002,Administracion distancia
+43,Utpljo001,Microeconomia iii
+44,Utpljo002,Economia de la empresa y mercado
+45,Utplde001,Economia de la empresa y mercado 1
+46,Utplde002,Economia de la empresa y mercado 2
+47,Utplpa001,Administracion estrategica
+48,Utpldr001,Tendencias de la comunicacion
+49,Utpljcm001,Television
+50,Utplamb001,Teoria de la comunicacion  educomunicacion
+51,Utplde003,Principios de microeconomia 1
+52,Utplde004,Principios de microeconomia 2
+53,Utpllvp001,Derecho civil personas
+54,Utplmvm001,Antenas a
+55,Utplmvm002,Antenas b
+56,Utpllac001,Dibujo para ingenieria c
+57,Utpllac002,Dibujo para ingenieria d
+58,Utpldap001,Farmacologia
+59,Utplcml001,Gestion productiva 3.1
+60,Utplcml002,Enfoque de genero en la investigacion
+61,Utplcml003,Practicum 1
+62,Utplmea001,Asesoria en el manejo del eva
+63,Utplajp001,Derecho mercantil
+64,Utplajp002,Derecho societario
+65,Glgjjb001,Lengua y literatura
+66,Glgjjb002,Matematicas
+67,Glgjjb003,Ciencias naturales
+68,Glgjjb004,Estudios sociales
+69,Utplcjv001,Estadistica c
+70,Utplcjv002,Pavimentos a
+71,Utplcjv003,Pavimentos b
+72,Utplgpc001,Enfermeria familiar y comunitaria
+73,Utplgpc002,Salud comunitaria en internado rotativo
+74,Utplmap001,Fundamentos de ingenieria de software
+75,Utplmp002,Gestion de tecnologias de la informacion
+76,Utpllvt001,Practicum 3
+77,Utpldr002,Ciberperiodismo tendencias actuales
+78,Utpl2021001,Fisica basica
+79,Utpl2021002,Fundamentos matematicos
+80,Utpl2021003,Algebra lineal
+81,Utplcjv004,Estadistica  a oct 20 - feb 21
+82,Utplcjv005,Estadistica b oct 20 - feb 21
+83,Utplcjv006,Transito a oct 20 - feb 21
+84,Utplcjv007,Topografia ii - c oct 20 - feb 21
+85,Utplrl003,Ing. web a oct 20 - feb 21
+86,Utploct20feb2101,Fotografia 1 oct20-feb21
+87,Utploct20feb2102,Diseno iii  oct20-feb21
+88,Utploct20feb2103,Arte digital 2d  oct20-feb21
+89,Utploct20feb2101,Escultura  oct20-feb21
+90,Utploct20feb2102,Introduccion a la historia del arte  oct20-feb21
+91,Utploct20feb2101,Dibujo anatomico  oct20-feb21
+92,Utploct20feb2102,G.p 3.1  oct20-feb21
+93,Utploct20feb2101,Dibujo tecnico  oct20-feb21
+94,Utploct20feb2102,G.p 4.1  oct20-feb21
+95,Utploct20feb2101,Evento educameter
+96,Utploct20feb2102,Fundamentos de tecnologias de la informacion oct20-feb21
+97,Utploct20feb2101,Educomunicacion ects oct20-feb21
+98,Utploct20feb2101,Teoria de la comunicacion ects oct20-feb21
+99,Utploct20feb2101,Pasantias preprofesionales y de vinculacion con la colectividad
+100,Utploct20feb2101,Pasantias preprofesionales practicum 3.2
+101,Utplabria-gos21,Diseno de pavimentos a
+102,Utplabria-gos21,Estadistica (geologia)
+103,Utplabria-gos21,Microeconomia aplicada mad
+104,Utplabria-gos21,Economia de la migracion mp
+105,Utplabria-gos21,Asesoria del sistema maestria mad
+106,Utplabria-gos21,Tendencias de la comunicacion
+107,Utplabria-gos21,Television
+108,Utplabria-gos21,Educomunicacion
+109,Utplabria-gos21,Microeconomia iii  (ects) ab-ag21
+110,Utplabria-gos21,Economia de la empresa y mercado (rediseno) ab-ag21
+111,Utplabria-gos21,Teoria microeconomica
+112,Utplabria-gos21,Teoria microeconomica 108 red
+113,Utplabria-gos21,Taller de creacion artist. 1 (4c)
+114,Utplabria-gos21,Ilustracion analogica y digital
+115,Utplabria-gos21,Circuito del arte en el ecuador
+116,Utplabria-gos21,Esculto-ceramica 1
+117,Utplabria-gos21,Dibujo y modelado 1
+118,Utplabria-gos21,Arte y espacio publico
+119,Utplabria-gos21,Reproduccion analogica y digital
+120,Utplabria-gos21,Practicum 1
+121,Utplabria-gos21,Historia del arte v
+122,Utplabria-gos21,Historia del arte vii
+123,Utplabria-gos21,Taller de creacion  artistica 3
+124,Utplabria-gos21,Gestion productiva  3.1
+125,Utplabria-gos21,Fotografia artistica
+126,Utplabria-gos21,Diseno en prensa
+127,Utplabria-gos21,Dibujo artistico iv
+128,Utplabria-gos21,Ilustracion animada
+129,Utplabria-gos21,Arte y cultura
+130,Utploct21-feb22,Construccion de carreteras ii
+131,Utploct21-feb22,Presupuesto y control de obras
+132,Utploct21-feb22,Tecnologia de los materiales
+133,Utploct21-feb22,Herramientas de diseno digital
+134,Utploct21-feb22,Teorias de la comunicacion i
+135,Utploct21-feb22,Contabilidad agraria oct21-feb22
+136,Utploct21-feb22,Principios de auditoria oct21-feb22
+137,Utploct21-feb22,Auditoria oct21-feb22
+138,Utploct21-feb22,Teoria de la comunicacion 100red oct21-feb22
+139,Utploct21-feb22,Teoria de la comunicacion 102red oct21-feb22
+140,Utploct21-feb22,Entrevista y evaluacion psicologica oct21-feb22
+141,Utploct21-feb22,Derecho a la comunicacion y la informacion oct21-feb22
+142,Utploct21-feb22,Semiotica oct21-feb22
+143,Utploct21-feb22,Teoria de la imagen oct21-feb22
+144,Utploct21-feb22,Cine oct21-feb22
+145,Utploct21-feb22,Disen‘o de productos turisticos oct21-feb22
+146,Utploct21-feb22,Planificacion de destinos turisticos oct21-feb22
+147,Utploct21-feb22,Competitividad de destinos turisticos oct21-feb22
+148,Utploct21-feb22,Gestion del patrimonio cultural oct21-feb22
+149,Utploct21-feb22,Practicum 1 oct21-feb22
+150,Utploct21-feb22,Patrimonio natural y biodiversidad oct21-feb22
+151,Utploct21-feb22,Gestion productiva gp 3 oct21-feb22
+152,Utploct21-feb22,Examen complexivo oct21-feb22
+153,Utploct21-feb22,Tendencias de la comunicacion oct21-feb22
+154,Utploct21-feb22,Epidemiologia y salud publica oct21-feb22
+155,Utploct21-feb22,Fundamentos de bases de datos oct21-feb22
+156,Utploct21-feb22,Fundamentos de base de datos oct21-feb22
+157,Utploct21-feb22,Plataformas web oct21-feb22
+158,Utploct21-feb22,Economia internacional oct21-feb22
+159,Utploct21-feb22,Dibujo tecnico oct21-feb22
+160,Utploct21-feb22,Herramientas digitales oct21-feb22
+161,Utploct21-feb22,Dibujo e ideacion oct21-feb22
+162,Utploct21-feb22,Dibujo e ideacion loct21-feb22
+163,Utploct21-feb22,Dibujo e ideacion soct21-feb22
+164,Utploct21-feb22,Algebra lineal oct21-feb22
+165,Utploct21-feb22,Matematica basica oct21-feb22
+166,Utploct21-feb22,Radio y nuevas tecnologias oct21-feb22
+167,Utploct21-feb22,Algebra lineal oct21-feb22
+168,Utploct21-feb22,Algebra lineal noct21-feb22
+169,Utploct21-feb22,Economia ambiental y de los recursos naturales oct21-feb22
+170,Utploct21-feb22,Microeconomia oct21-feb22
+171,Utploct21-feb22,Contaminacion y remediacion de suelos oct21-feb22
+172,Utploct21-feb22,Itinerario 2 a. mineria sustentable oct21-feb22
+173,Utploct21-feb22,Practicum 3 pasantias pre-profesionales oct21-feb22
+174,Utploct21-feb22,Microeconomia aplicada oct21-feb22
+175,Utploct21-feb22,Principios de microeconomia oct21-feb22
+176,Utploct21-feb22,Economia de la empresa y mercado oct21-feb22
+177,Utploct21-feb22,Microeconomia aplicada joct21-feb22
+178,Utploct21-feb22,Gp 4.1 proyecto de fin de carrera oct21-feb22
+179,Utploct21-feb22,Comunicacion y argumentacion en la era digital oct21-feb22
+180,Utploct21-feb22,Comunicacion y argumentacion en la era digital coct21-feb22
+181,Utploct21-feb22,Comunicacion y argumentacion en la era digital doct21-feb22
+182,Utploct21-feb22,Teoria de la comunicacion oct21-feb22
+183,Utploct21-feb22,Pasantias pre-profesinales (practicum 3.2) oct21-feb22
+184,Utploct21-feb22,Gestion del curriculo para la educacion basica oct21-feb22
+185,Utploct21-feb22,Neuropsicologia oct21-feb22
+186,Utploct21-feb22,Necesidades educativas especiales asociadas a la discapacidad ii oct21-feb22
+187,Utploct21-feb22,Inclusion educativa oct21-feb22
+188,Utploct21-feb22,Itinerario ii: methodology for teaching english for academic purposes oct21-feb22
+189,Utploct21-feb22,Itinerario i: methodology for teaching english to children  oct21-feb22
+190,Utploct21-feb22,Practicum 2 oct21-feb22
+191,Utploct21-feb22,Language testing oct21-feb22
+192,Utploct21-feb22,Practicum 2 aoct21-feb22
+193,Utploct21-feb22,Practicum 2 coct21-feb22
+194,Utploct21-feb22,Practicum 2 eoct21-feb22
+195,Utploct21-feb22,Administracion de riesgos oct21-feb22
+196,Utploct21-feb22,Contabilidad financiera oct21-feb22
+197,Utploct21-feb22,Contabilidad financiera avanzada oct21-feb22
+198,Utploct21-feb22,Contabilidad de costos ii oct21-feb22
+199,Utploct21-feb22,Practicum 2 moct21-feb22
+200,Utploct21-feb22,Psicopatologia del nin‘o y del adolescente oct21-feb22
+201,Utploct21-feb22,Psicopatologia del nin‘o y del adolescente eoct21-feb22
+202,Utploct21-feb22,Tecnicas e instrumentos para la promocion y prevencion en diferentes contextos clinicos
+203,Utploct21-feb22,Administracion financiera operativa oct21-feb22
+204,Utploct21-feb22,Finanzas iii oct21-feb22
+205,Utploct21-feb22,Sistemas financieros oct21-feb22
+206,Utploct21-feb22,Finanzas personales y empresariales oct21-feb22
+207,Utploct21-feb22,Gestion administrativa publica oct21-feb22
+208,Utploct21-feb22,Herramientas de disen‘o digital oct21-feb22
+209,Utploct21-feb22,Imagen digital oct21-feb22
+210,Utploct21-feb22,Genetica clinica y enfermedades metabolicas oct21-feb22
+211,Utploct21-feb22,Biologia molecular oct21-feb22
+212,Utploct21-feb22,Genetica clinica y patologia molecular oct21-feb22
+213,Utploct21-feb22,Tecnicas moleculares oct21-feb22
+214,Utploct21-feb22,Derecho internacional publico oct21-feb22
+215,Utploct21-feb22,Practicum 3 oct21-feb22
+216,Utploct21-feb22,Tecnologias para la innovacion educativa oct21-feb22
+217,Utploct21-feb22,Comunicacion organizacional oct21-feb22
+218,Utploct21-feb22,Radio oct21-feb22
+219,Utploct21-feb22,Semiotica oct21-feb22
+220,Utploct21-feb22,Radio y nuevas tecnologias oct21-feb22
+221,Utploct21-feb22,Hidraulica i eoct21-feb22
+222,Utploct21-feb22,Hidraulica i hoct21-feb22
+223,Utploct21-feb22,Practicum 3.2 pasantias pre-profesionales oct21-feb22
+224,Utploct21-feb22,Practicum 4.1 oct21-feb22
+225,Utploct21-feb22,Itinerario i: mecanismos de financiamiento e inversion oct21-feb22
+226,Utploct21-feb22,Practicum 3.1 pasantias pre-profesionales oct21-feb22
+227,Utploct21-feb22,Gestion productiva 3.1 oct21-feb22
+228,Utploct21-feb22,Aplicaciones de costos oct21-feb22
+229,Utploct21-feb22,Practicum 2 oct21-feb22
+230,Utploct21-feb22,Derecho procesal constitucional jcoct21-feb22
+231,Utploct21-feb22,Derecho procesal constitucional jroct21-feb22
+232,Utploct21-feb22,Derecho procesal constitucional rgoct21-feb22
+233,Utploct21-feb22,Bebidas alcoholicas y no alcoholicas (mixologia) oct21-feb22
+234,Utploct21-feb22,Preparacion de alimentos 3 (procesamiento carnico - garde manger)oct21-feb22
+235,Utploct21-feb22,Analisis de alimentos aplicados al desarrollo de nuevos productos oct21-feb22
+237,Utploct21-feb22,Practicum 3 pasantias pre-profesionales jrmoct21-feb22
+238,Utploct21-feb22,Practicum 2 jpaoct21-feb22
+239,Utploct21-feb22,Quimica general oct21-feb22
+240,Utploct21-feb22,Biologia celular y  molecular oct21-feb22
+241,Utploct21-feb22,Bases biologicas oct21-feb22
+243,Utploct21-feb22,Metodologia de la investigacion y tecnicas de estudio oct21-feb22
+244,Utploct21-feb22,Zoologia oct21-feb22
+245,Utploct21-feb22,Practicum 1 lfoct21-feb22
+246,Utploct21-feb22,Practicum 2 lgoct21-feb22
+247,Utploct21-feb22,Fundamentos de redes y telecomunicaciones oct21-feb22
+248,Utploct21-feb22,Contabilidad agraria gioct21-feb22
+249,Utploct21-feb22,Contabilidad agraria wooct21-feb22
+250,Utploct21-feb22,Integrado de clinica i oct21-feb22
+251,Utploct21-feb22,Integrado de clinica i vvoct21-feb22
+252,Utploct21-feb22,Geografia turistica oct21-feb22
+253,Utploct21-feb22,Tics gastronomicos oct21-feb22
+254,Utploct21-feb22,Derecho administrativo oct21-feb22
+255,Utploct21-feb22,Derecho administrativo mcoct21-feb22
+256,Utploct21-feb22,Pluralismo juridico oct21-feb22
+257,Utploct21-feb22,Derecho administrativo sroct21-feb22
+258,Utploct21-feb22,Analsis matematico univariado oct21-feb22
+259,Utploct21-feb22,Ecuaciones diferenciales oct21-feb22
+260,Utploct21-feb22,Didactica de la lengua y literatura en la educacion basica oct21-feb22
+261,Utploct21-feb22,Didactica de la matematica en la educacion basica oct21-feb22
+262,Utploct21-feb22,Didactica de las ciencias sociales en la educacion basica oct21-feb22
+263,Utploct21-feb22,Didactica especifica de la lengua y literatura oct21-feb22
+264,Utploct21-feb22,Didactica de las ciencias naturales en la educacion basica oct21-feb22
+265,Utploct21-feb22,Orientacion y asesoramiento psicologico oct21-feb22
+266,Utploct21-feb22,Orientacion y asesoramiento psicologico maoct21-feb22
+267,Utploct21-feb22,Dibujo tecnico cboct21-feb22
+268,Utploct21-feb22,Disen‘o en prensa oct21-feb22
+269,Utploct21-feb22,Taller de creacion artistica iv oct21-feb22
+270,Utploct21-feb22,Medicina legal oct21-feb22
+271,Utploct21-feb22,Fundamentos filosoficos de la medicina oct21-feb22
+272,Utploct21-feb22,Medicina familiar oct21-feb22
+273,Utploct21-feb22,Anatomiia oct21-feb22
+274,Utploct21-feb22,Analisis matematico univariado oct21-feb22
+275,Utploct21-feb22,Fundamentos matematicos oct21-feb22
+276,Utploct21-feb22,Fisica basica oct21-feb22
+277,Utploct21-feb22,Analisis matematico multivariado oct21-feb22
+278,Utploct21-feb22,Arquitectura y seguridad de redes oct21-feb22
+279,Utploct21-feb22,Administracion jroct21-feb22
+280,Utploct21-feb22,Administracion lcoct21-feb22
+281,Utploct21-feb22,Gestion productiva 4.1 oct21-feb22
+282,Utploct21-feb22,Listening and speaking iv oct21-feb22
+283,Utploct21-feb22,Literatura ecuatoriana i oct21-feb22
+284,Utploct21-feb22,Corrientes contemporaneas de la teoria y critica literarias oct21-feb22
+285,Utploct21-feb22,Practicum 4.1 aroct21-feb22
+286,Utploct21-feb22,English language: reading and writing ii oct21-feb22
+287,Utploct21-feb22,Administracion estrategica oct21-feb22
+288,Utploct21-feb22,Administracion estrategica mloct21-feb22
+289,Utploct21-feb22,Administracion estrategica mcoct21-feb22
+290,Utploct21-feb22,Administracion estrategica paoct21-feb22
+291,Utploct21-feb22,Computacion y sociedad oct21-feb22
+292,Utploct21-feb22,Second language acquisition oct21-feb22
+293,Utploct21-feb22,Practicum 1: observacion y diagnostico del contexto educativo oct21-feb22
+294,Utploct21-feb22,Disen‘o de la comunicacion visual oct21-feb22
+295,Utploct21-feb22,Etica periodistica oct21-feb22
+296,Utploct21-feb22,Periodismo narrativo oct21-feb22
+297,Utploct21-feb22,Sostenibilidad empresarial  oct21-feb22
+298,Utploct21-feb22,Practicum 2 vaoct21-feb22
+299,Utploct21-feb22,Practicum 1 zmoct21-feb22
+300,Utploct21-feb22,Manejo de solidos oct21-feb22
+301,Utploct21-feb22,Contaminacion ambiental oct21-feb22
+302,Utploct21-feb22,Practicum 1 ndoct21-feb22
+303,Utploct21-feb22,Quimica de los productos naturales y farmacognosia oct21-feb22
+304,Utploct21-feb22,Tecnicas de cultivos en celulas animales oct21-feb22
+305,Utploct21-feb22,Genetica molecular oct21-feb22
+306,Utploct21-feb22,Semiologia oct21-feb22
+307,Utploct21-feb22,Fisiopatologia oct21-feb22
+308,Utploct21-feb22,Educacion nutricional y salud alimentaria oct21-feb22
+309,Utploct21-feb22,Introduccion a la ciencia de los alimentos oct21-feb22
+310,Utploct21-feb22,Methodology for teaching english for specific purposes oct21-feb22
+311,Utploct21-feb22,Semantics and pragmatics oct21-feb22
+312,Utploct21-feb22,Theory for teaching grammar use oct21-feb22
+313,Utploct21-feb22,Evaluacion psicologica oct21-feb22
+314,Utploct21-feb22,Entrevista psicologica oct21-feb22
+315,Utploct21-feb22,Evaluacion psicologica mpoct21-feb22
+316,Utploct21-feb22,Entrevista psicologica pboct21-feb22
+317,Utploct21-feb22,Entrevista psicologica tmoct21-feb22
+318,Utploct21-feb22,Practicum 3.1 oct21-feb22
+319,Utploct21-feb22,Practicum 3.1 lvoct21-feb22
+320,Utploct21-feb22,Histologia oct21-feb22
+321,Utploct21-feb22,Histologia yqoct21-feb22
+322,Utploct21-feb22,Gestion productiva 4.2 trabajo de titulacion
+323,Utploct21-feb22,Gestion productiva 4.2 trabajo de titulacion oct21-feb22
+324,Utploct21-feb22,Fundamentos matematicos oct21-feb22
+325,Utploct21-feb22,Theory for teaching grammar use oct21-feb22
+326,Utploct21-feb22,Geologia estructural oct21-feb22
+327,Utploct21-feb22,Practicum 2 oct21-feb22
+328,Utploct21-feb22,Ingenieria web oct21-feb22
+329,Utploct21-feb22,Introduccion a la historia oct21-feb22
+330,Utploct21-feb22,Comunicacion politica oct21-feb22
+331,Utploct21-feb22,Itinerario i: curriculum foundations principles and issues oct21-feb22
+332,Utploct21-feb22,English language: reading and writing i oct21-feb22
+333,Utploct21-feb22,Seminario de fin de carrera oct21-feb22
+334,Utploct21-feb22,Seminario de fin de carrera ksoct21-feb22
+335,Utploct21-feb22,Antropologia oct21-feb22
+336,Utploct21-feb22,Carcinogenesis oct21-feb22
+337,Utploct21-feb22,Gp 3.1 oct21-feb22
+338,Utploct21-feb22,Gp 3.2 oct21-feb22
+339,Utploct21-feb22,Gp 3.3 oct21-feb22
+340,Utploct21-feb22,Lectura y redaccion de textos academicos oct21-feb22
+341,Utploct21-feb22,Modulo actores y gestores del cambio
+342,Utploct21-feb22,Introduccion de la historia del arte oct21-feb22
+343,Utploct21-feb22,Finanzas estrategicas oct21-feb22
+344,Utploct21-feb22,Contaminacion atmosferica oct21-feb22
+345,Utploct21-feb22,Calidad y tratamiento de agua oct21-feb22
+346,Utploct21-feb22,Evaluacion psicologica oct21-feb22
+347,Utploct21-feb22,Tecnicas e instrumentos para la promocion y prevencion en diferentes contextos clinicos
+348,Utploct21-feb22,Procesos psicologicos basicos i
+349,Utploct21-feb22,Cultivos celulares  oct21-feb22
+350,Utploct21-feb22,Bioquimica aplicada a la enfermeria oct21-feb22
+351,Utploct21-feb22,Bioquimica general oct21-feb22
+352,Utploct21-feb22,Evaluacion psicologica b oct21-feb22
+353,Utplabr-ago22,Estadistica â€“ geologia 2022
+354,Utplabr-ago22,Dibujo para ingenieria civil â€“ 2022
+355,Utplabr-ago22,Dibujo asistido por computador â€“ logistica â€“ 2022
+356,Utplabr-ago22,Ingenieria web abr-ago22
+357,Utplabr-ago22,Desarrollo de plataformas moviles
+358,Utplabr-ago22,Desarrollo web 22
+359,Utploct21-feb22,Evaluacion de riesgos mediante modelos probabilisticos
+360,Utplabr-ago22,Hidrologia y metereologia
+361,Utplabr-ago22,Economia de la empresa y mercado
+362,Utplabr-ago22,Microeconomia aplicada (100)
+363,Utplabr-ago22,Microeconomia aplicada (101)
+364,Utploct22feb23,Pavimentos-a-oct22
+365,Utploct22feb23,Pavimentos-b-oct22
+366,Utploct22feb23,Materiales-b-oct22
+367,Utploct22feb23,Contabilidad agraria oct22 fer23
+368,Utploct22feb23,Principios de auditoria y auditoria i oct22 feb23
+369,Utpl abr-ago 23,Evaluacion de riesgos mediante modelos probabilisticos abr-ago 23
+370,Utpl abr-ago 23,Itinerario 2 mitigacion y preparacion de la respuesta: obras de infraestructura para la prevencion  abr-ago 23
+371,Utpl abr-ago 23,Dibujo-a-abril-23
+372,Utpl abr-ago 23,Dibujo-b-abril-23
+373,Utpl abr-ago 23,Dibujo-c-abril-23
+374,Utpl abr-ago 23,Desarrollo web tec abr-ago 23
+375,Utpl abr-ago 23,Desarrollo web mad abr-ago 23
+376,Utpl abr-ago 23,Plataformas moviles mad abr-ago 23
+377,Utploct24feb25,Fundamentos  de contabilidad
+378,Utploct24feb25,Principios de auditoria
+379,Utploct24feb25,Cambio climatico y adaptacion
+380,Utploct24feb25,Constitucionalismo y derecho procesal penal
+381,Utploct24feb25,Derecho constitucional comparado
+382,Utploct24feb25,Derechos humanos e interculturalidad
+383,Utploct24feb25,Hidraulica avanzada
+384,Utploct24feb25,Hidrologia y sostenibilidad
+385,Utploct24feb25,Interpretacion constitucional
+386,Utploct24feb25,La prueba y su valoracion
+387,Utploct24feb25,Los procesos penales y recursos
+388,Utploct24feb25,Los sujetos procesales
+389,Utploct24feb25,Metodologia de investigacion
+390,Utploct24feb25,Metodologia de la investigacion juridica
+391,Utploct24feb25,Tecnologias de la informacion geografica aplicada a los recursos hidricos
+392,Utploct24feb25,Titulacion 1 - c
+393,Utploct24feb25,Titulacion 1 - b
+394,Utploct24feb25,Titulacion 1 - a
+395,Utploct24feb25,Titulacion i - a
+396,Utploct24feb25,Titulacion i - c
